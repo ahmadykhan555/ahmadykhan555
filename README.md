@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About Me [![HitCount](http://hits.dwyl.com/{ahmadykhan555}/{ahmadykhan555}.svg)](http://hits.dwyl.com/{ahmadykhan555}/{ahmadykhan555})
+#### About Me
 If I could name one passion that defines the person I have developed myself into, that would be the curiosity to learn about new things and translate those learnings in to code to breathe life into exciting ideas. Like many other professional developers I spend a good part of my day coding, reading, and playing with interesting programming problems to sharpen myself into a more technically sound Engineer. Not just a geek, a good part of me is inspired by art, I love singing and painting and occasionally writing short stories, poems and photography! 
 
 #### My expertise

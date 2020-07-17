@@ -1,5 +1,4 @@
-### Hey there 👋
-
+# Ahmad Yar Khan | Full Stack Software Engineer  ![Hits](https://views.whatilearened.today/views/github/ahmadykhan555/ahmadykhan555.svg)
 <!--
 **ahmadykhan555/ahmadykhan555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About Me ![Hits](https://views.whatilearened.today/views/github/ahmadykhan555/ahmadykhan555.svg)
+#### About Me
 If I could name one passion that defines the person I have developed myself into, that would be the curiosity to learn about new things and translate those learnings in to code to breathe life into exciting ideas. Like many other professional developers I spend a good part of my day coding, reading, and playing with interesting programming problems to sharpen myself into a more technically sound Engineer. Not just a geek, a good part of me is inspired by art, I love singing and painting and occasionally writing short stories, poems and photography! 
 
 #### My expertise

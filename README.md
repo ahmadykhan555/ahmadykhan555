@@ -1,4 +1,4 @@
-# AYK | Full Stack Software Engineer | Mentor @ CodeMentor.io  ![Hits](https://views.whatilearened.today/views/github/ahmadykhan555/ahmadykhan555.svg)
+# AYK | Full Stack Software Engineer | [![Contact me on Codementor](https://www.codementor.io/m-badges/ahmadykhan555/im-a-cm-b.svg)](https://www.codementor.io/@ahmadykhan555?refer=badge)  ![Hits](https://views.whatilearened.today/views/github/ahmadykhan555/ahmadykhan555.svg) 
 <!--
 **ahmadykhan555/ahmadykhan555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

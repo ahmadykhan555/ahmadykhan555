@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 #### About Me
-If I could name one passion that defines the person I have developed myself into, that would be the curiosity to learn about new things and translate those learnings in to code to breathe life into exciting ideas. Like many other professional developers I spend a good part of my day coding, reading, and playing with interesting programming problems to sharpen myself into a more technically sound Engineer. Not just a geek, a good part of me is inspired by art, I love singing and painting and occasionally writing short stories, poems and photography! 
+If I could name one passion that defines the person I have developed myself into, that would be the curiosity to learn about new things and translate those learnings in to code to breathe life into exciting ideas. Like many other professional developers I spend a good part of my day coding, reading, and playing with interesting programming problems to sharpen myself into a more technically sound Engineer. Not just a geek, a good part of me is inspired by art, I love singing and painting and occasionally writing short stories, poems and love photography! 
 
 #### My expertise
-Full stack developer experienced in modern web and hybrid mobile development. I have expertise in Angular, React, NodeJs, NextJs, and Ionic
+Full stack developer experienced in modern web and hybrid mobile app development. I have expertise in Angular, React, NodeJs, NextJs, and Ionic
 
 #### Learning these days
 Core Computer Science has always been an area of interest for me so I find myself reading and learning about Data structures & algorithms, Software Engineering and technical management in my leisure time

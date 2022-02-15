@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 If I could name one passion that defines the person I have developed myself into, that would be the curiosity to learn about new things and translate those learnings in to code to breathe life into exciting ideas. Like many other professional developers I spend a good part of my day coding, reading, and playing with interesting programming problems to sharpen myself into a more technically sound Engineer. Not just a geek, a good part of me is inspired by art, I love singing and painting and occasionally writing short stories, poems and love photography! 
 
 #### My expertise
-Full stack developer experienced in modern web and hybrid mobile app development. I have expertise in Angular, React, NodeJs, NextJs, and Ionic
+Full stack developer experienced in modern web and hybrid mobile app development. I have expertise in Angular, React, NuxtJS, Ionic, NextJs, and NodeJs
 
 #### Learning these days
 Core Computer Science has always been an area of interest for me so I find myself reading and learning about Data structures & algorithms, Software Engineering and technical management in my leisure time
 
 #### Planning to learn
-React native, Vuejs
+React native 
 
 #### Reach me
 I love collaboration feel free to contact on [Email](mailto:ahmadyarkhan555@gmail.com), [LinkedIn](https://www.linkedin.com/in/ahmad-yar-khan-709870118/) or [CodeMentor](https://www.codementor.io/@ahmadykhan555)
